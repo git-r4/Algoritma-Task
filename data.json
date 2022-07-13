@@ -1,0 +1,99 @@
+{
+  "order": [
+    {
+      "id": "1",
+      "table": "m5",
+      "waiter": "Sabir",
+      "status": true,
+      "total": 0,
+      "position": "ended",
+      "date": "2022-07-07 15:45",
+      "orders": [
+        {
+          "id": 1,
+          "name": "Çörək",
+          "count": 2
+        },
+        {
+          "id": 2,
+          "name": "Souz",
+          "count": 2
+        },
+        {
+          "id": 3,
+          "name": "Su",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "table": "m3",
+      "waiter": "Azər",
+      "status": false,
+      "total": 0,
+      "position": "waiting",
+      "date": "---",
+      "orders": [
+        {
+          "id": 1,
+          "name": "Çörək",
+          "count": 4
+        },
+        {
+          "id": 2,
+          "name": "Souz",
+          "count": 3
+        },
+        {
+          "id": 3,
+          "name": "Su",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "table": "m3",
+      "waiter": "Ramil",
+      "status": false,
+      "total": 0,
+      "position": "waiting",
+      "date": "---",
+      "orders": [
+        {
+          "id": 1,
+          "name": "Çörək",
+          "count": 3
+        },
+        {
+          "id": 2,
+          "name": "Souz",
+          "count": 2
+        },
+        {
+          "id": 3,
+          "name": "Su",
+          "count": 4
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "name": "Çörək",
+      "price": 1
+    },
+    {
+      "id": 2,
+      "name": "Souz",
+      "price": 3
+    },
+    {
+      "id": 3,
+      "name": "Su",
+      "price": 2
+    }
+  ]
+}
